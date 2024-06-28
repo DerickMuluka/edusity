@@ -37,10 +37,7 @@ const Testimonials = () => {
                                 <span>Edusity, USA</span>
                             </div>
                         </div>
-                        <p>Choosing to pursue my degree at Edusity was one of the decisions I've ever made. The
-                            supportive comunity, state-of-art facilities and commitment to academic excellence
-                            have truly exceeded my expectations.
-                        </p>
+                        <p>Edusity has provided me with an exceptional education and an amazing community of peers and mentors. The opportunities here are endless!</p>
                     </div>
                 </li>
                 <li>
@@ -52,10 +49,7 @@ const Testimonials = () => {
                                 <span>Edusity, USA</span>
                             </div>
                         </div>
-                        <p>Choosing to pursue my degree at Edusity was one of the decisions I've ever made. The
-                            supportive comunity, state-of-art facilities and commitment to academic excellence
-                            have truly exceeded my expectations.
-                        </p>
+                        <p>The learning environment at Edusity is incredible. The professors are passionate and the resources available have greatly enhanced my learning experience.</p>
                     </div>
                 </li>
                 <li>
@@ -67,10 +61,7 @@ const Testimonials = () => {
                                 <span>Edusity, USA</span>
                             </div>
                         </div>
-                        <p>Choosing to pursue my degree at Edusity was one of the decisions I've ever made. The
-                            supportive comunity, state-of-art facilities and commitment to academic excellence
-                            have truly exceeded my expectations.
-                        </p>
+                        <p>Edusity has not only met but exceeded my expectations. The curriculum is challenging yet rewarding, and the support from faculty is outstanding.</p>
                     </div>
                 </li>
                 <li>
@@ -82,10 +73,7 @@ const Testimonials = () => {
                                 <span>Edusity, USA</span>
                             </div>
                         </div>
-                        <p>Choosing to pursue my degree at Edusity was one of the decisions I've ever made. The
-                            supportive comunity, state-of-art facilities and commitment to academic excellence
-                            have truly exceeded my expectations.
-                        </p>
+                        <p>Being a part of Edusity has been a transformative experience. The campus culture is welcoming, and I've developed both academically and personally.</p>
                     </div>
                 </li>
             </ul>
